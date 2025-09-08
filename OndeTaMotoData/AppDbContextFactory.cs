@@ -10,7 +10,7 @@ namespace LivroApi
         {
             var optionsBuilder = new DbContextOptionsBuilder<AppDbContext>();
 
-            optionsBuilder.UseOracle("User Id=rm557844;Password=160804;Data Source=oracle.fiap.com.br:1521/ORCL");
+            optionsBuilder.UseOracle("User Id=FIAP_ORACLE_USER;Password=FIAP_ORACLE_PASS;Data Source=oracle.fiap.com.br:1521/ORCL");
 
             return new AppDbContext(optionsBuilder.Options);
         }
