@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Fiap\\Projeto\\2TDSPX\\Sprint1.2\\.Net\\C#2\\OndeTaMotoProject\\OndeTaMotoModel\\OndeTaMotoModel.csproj": {}
+    "C:\\Users\\nerdt\\Documents\\1TDSPM\\OndeTaMotoProject\\OndeTaMotoModel\\OndeTaMotoModel.csproj": {}
   },
   "projects": {
-    "D:\\Fiap\\Projeto\\2TDSPX\\Sprint1.2\\.Net\\C#2\\OndeTaMotoProject\\OndeTaMotoModel\\OndeTaMotoModel.csproj": {
+    "C:\\Users\\nerdt\\Documents\\1TDSPM\\OndeTaMotoProject\\OndeTaMotoModel\\OndeTaMotoModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Fiap\\Projeto\\2TDSPX\\Sprint1.2\\.Net\\C#2\\OndeTaMotoProject\\OndeTaMotoModel\\OndeTaMotoModel.csproj",
+        "projectUniqueName": "C:\\Users\\nerdt\\Documents\\1TDSPM\\OndeTaMotoProject\\OndeTaMotoModel\\OndeTaMotoModel.csproj",
         "projectName": "OndeTaMotoModel",
-        "projectPath": "D:\\Fiap\\Projeto\\2TDSPX\\Sprint1.2\\.Net\\C#2\\OndeTaMotoProject\\OndeTaMotoModel\\OndeTaMotoModel.csproj",
-        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "D:\\Fiap\\Projeto\\2TDSPX\\Sprint1.2\\.Net\\C#2\\OndeTaMotoProject\\OndeTaMotoModel\\obj\\",
+        "projectPath": "C:\\Users\\nerdt\\Documents\\1TDSPM\\OndeTaMotoProject\\OndeTaMotoModel\\OndeTaMotoModel.csproj",
+        "packagesPath": "C:\\Users\\nerdt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nerdt\\Documents\\1TDSPM\\OndeTaMotoProject\\OndeTaMotoModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nerdt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
