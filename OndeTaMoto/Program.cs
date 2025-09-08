@@ -22,9 +22,9 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "API OndeT�Moto",
+        Title = "API OndeTaMoto",
         Version = "v1",
-        Description = "Documenta��o da API OndeT�Moto usando Swagger"
+        Description = "Documentação da API OndeTaMoto usando Swagger"
     });
 });
 
@@ -41,7 +41,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "API OndeT�Moto v1");
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "API OndeTaMoto v1");
         c.RoutePrefix = "swagger";
     });
 }
