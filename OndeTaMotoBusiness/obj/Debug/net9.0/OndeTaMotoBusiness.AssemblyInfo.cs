@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OndeTaMotoBusiness")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25a97d3f16d26a1d3500e817018e85adc9e293ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c419eabfd42b93866f64d48bed00f5728fbb3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OndeTaMotoBusiness")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OndeTaMotoBusiness")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
