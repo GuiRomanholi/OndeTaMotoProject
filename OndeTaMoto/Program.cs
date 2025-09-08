@@ -10,8 +10,8 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAll", policy =>
     {
         policy.AllowAnyOrigin()
-              .AllowAnyMethod()
-              .AllowAnyHeader();
+            .AllowAnyMethod()
+            .AllowAnyHeader();
     });
 });
 
@@ -22,9 +22,9 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "API OndeTáMoto",
+        Title = "API OndeTï¿½Moto",
         Version = "v1",
-        Description = "Documentação da API OndeTáMoto usando Swagger"
+        Description = "Documentaï¿½ï¿½o da API OndeTï¿½Moto usando Swagger"
     });
 });
 
@@ -41,7 +41,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "API OndeTáMoto v1");
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "API OndeTï¿½Moto v1");
         c.RoutePrefix = "swagger";
     });
 }
